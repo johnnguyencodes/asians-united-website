@@ -1,0 +1,15 @@
+.nav {
+    background: #fbcb04;
+}
+
+.navDisplayFlex {
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    width: 30%;
+}
+
+.linkText {
+    text-decoration: none;
+    color: black;
+}
